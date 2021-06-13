@@ -9,3 +9,7 @@
 function abc(){
     echo "1213";
 }
+
+function dd(){
+
+}
